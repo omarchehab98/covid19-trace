@@ -1,6 +1,6 @@
 {
   "name": "@omarchehab98/covid19-trace",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A tree visualization of Bahrain's COVID19 contact tracing dataset",
   "private": true,
   "main": "index.js",
